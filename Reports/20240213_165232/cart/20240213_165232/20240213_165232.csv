@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+cart,,,,13-02-2024 16:52:40,13-02-2024 16:52:41,0.617s,FAILED
+,,,,,,,
+Test Cases/add_to_chart,,,,13-02-2024 16:52:40,13-02-2024 16:52:41,0.013s,FAILED
+"startApplication(""/Users/jalu/Downloads/Advantage+demo+3.2.apk"", true)",,,,13-02-2024 16:52:40,13-02-2024 16:52:40,0.003s,FAILED
